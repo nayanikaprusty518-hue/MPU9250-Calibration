@@ -9,6 +9,7 @@ A **complementary filter** is used to fuse accelerometer and gyroscope data to o
 This project is useful for robotics systems such as **Autonomous Underwater Vehicles (AUVs), drones, and mobile robots** where accurate orientation estimation is required.
 
 ---
+
 System Pipeline
 
 MPU9250 Sensor
@@ -26,6 +27,7 @@ Complementary Filter
 Orientation Estimation
 (Roll, Pitch, Yaw)
 
+   
 ## Hardware Used
 - MPU9250 / MPU6500 IMU sensor
 - Microcontroller (Arduino / ESP-based board)
