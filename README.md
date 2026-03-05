@@ -125,6 +125,11 @@ You will see real-time output:
 Roll: XX.X  Pitch: XX.X  Yaw: XX.X
 
 ---
+## Example Serial Output
+
+Roll: 12.4  Pitch: -3.2  Yaw: 48.7  
+Roll: 12.6  Pitch: -3.1  Yaw: 49.1  
+Roll: 12.8  Pitch: -3.0  Yaw: 49.6
 
 ## Applications
 This system can be used in:
