@@ -150,6 +150,12 @@ This system can be used in:
 - Working with I2C communication in embedded systems
 
 ---
+## Future Improvements
+
+- Add magnetometer fusion for absolute yaw estimation
+- Implement Kalman Filter for improved sensor fusion
+- Integrate IMU data into robotics navigation systems
+- Visualize orientation using a 3D interface
 
 ## Author
 Nayanika Prusty  
