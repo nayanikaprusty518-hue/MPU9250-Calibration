@@ -10,23 +10,24 @@ This project is useful for robotics systems such as **Autonomous Underwater Vehi
 
 ---
 
-System Pipeline
+## System Pipeline
 
+```
 MPU9250 Sensor
-      │
+      |
       ▼
 Raw Accelerometer & Gyroscope Data
-      │
+      |
       ▼
 Sensor Calibration (Bias Removal)
-      │
+      |
       ▼
 Complementary Filter
-      │
+      |
       ▼
 Orientation Estimation
 (Roll, Pitch, Yaw)
-
+```
    
 ## Hardware Used
 - MPU9250 / MPU6500 IMU sensor
